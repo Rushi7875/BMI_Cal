@@ -11,7 +11,7 @@ from PIL import Image
 
 ##Title
 
-st.title('Welcometo BMI Calculator')
+st.title('Welcome to BMI Calculator')
 
 ##BMI Image
 
